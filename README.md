@@ -8,19 +8,6 @@ Task: Grasping randomly shaped objects
 Installation
 Clone the repository:
 
-codeCopy code
-git clone https://github.com/your-username/ur3-robotic-arm.git
-Install the dependencies:
-
-codeCopy code
-pip install -r requirements.txt
-Usage
-Run the main script to start the training process:
-
-codeCopy code
-python train.py
-Monitor the training progress and observe the arm's grasp performance.
-
 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
